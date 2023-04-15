@@ -1,0 +1,1 @@
+# Để chạy project nhập: "npm install" trên cmd -> "npm start"
